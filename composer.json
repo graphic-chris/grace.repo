@@ -34,11 +34,10 @@
         "laravelba/laravel-js-routes": "^1.0",
         "patricktalmadge/bootstrapper" : "^5.9",
         "maddhatter/laravel-fullcalendar": "~1.0",
-
         "stripe/stripe-php": "3.*",
         "paypal/rest-api-sdk-php": "*",
         "evercode1/view-maker": "^3.5",
-        "beaudierman/ups": "^1.1",
+        "beaudierman/ups": "^1.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

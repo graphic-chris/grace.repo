@@ -8,7 +8,7 @@ grace.repo.sublime-project
 .savecommands.txt
 *.repo.sublime-project
 *.sublime-project
-composer_2.json
+/.pm/composer_2.json
 /.pm/article.rar
 /.pm/frontend.rar
 /.pm/page.rar
@@ -22,3 +22,4 @@ composer_2.json
 /.pm/article_2.rar
 /.pm/layout_bk.rar
 /.env
+ .env.example
